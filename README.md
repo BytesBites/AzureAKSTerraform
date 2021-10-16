@@ -3,6 +3,6 @@ RBAC And IAM code
 
 Automation for Kubernetes on Azure
 
--Sohaib Shaikh
+-Sohaib 
 
 Email - Sohaib.addmin@gmail.com
